@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Docs\\Estudo\\C#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE8431-0E78-4E4C-8989-29126553709C}|desafio-fundamentos\\desafio-fundamentos.csproj|d:\\docs\\estudo\\c#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\caracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE8431-0E78-4E4C-8989-29126553709C}|desafio-fundamentos\\desafio-fundamentos.csproj|solutionrelative:desafio-fundamentos\\caracter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE8431-0E78-4E4C-8989-29126553709C}|desafio-fundamentos\\desafio-fundamentos.csproj|d:\\docs\\estudo\\c#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE8431-0E78-4E4C-8989-29126553709C}|desafio-fundamentos\\desafio-fundamentos.csproj|solutionrelative:desafio-fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE8431-0E78-4E4C-8989-29126553709C}|desafio-fundamentos\\desafio-fundamentos.csproj|d:\\docs\\estudo\\c#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE8431-0E78-4E4C-8989-29126553709C}|desafio-fundamentos\\desafio-fundamentos.csproj|solutionrelative:desafio-fundamentos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DE8431-0E78-4E4C-8989-29126553709C}|desafio-fundamentos\\desafio-fundamentos.csproj|d:\\docs\\estudo\\c#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DE8431-0E78-4E4C-8989-29126553709C}|desafio-fundamentos\\desafio-fundamentos.csproj|solutionrelative:desafio-fundamentos\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Caracter.cs",
+              "DocumentMoniker": "D:\\Docs\\Estudo\\C#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\Caracter.cs",
+              "RelativeDocumentMoniker": "desafio-fundamentos\\Caracter.cs",
+              "ToolTip": "D:\\Docs\\Estudo\\C#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\Caracter.cs",
+              "RelativeToolTip": "desafio-fundamentos\\Caracter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T22:39:51.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "D:\\Docs\\Estudo\\C#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\Numero.cs",
+              "RelativeDocumentMoniker": "desafio-fundamentos\\Numero.cs",
+              "ToolTip": "D:\\Docs\\Estudo\\C#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\Numero.cs",
+              "RelativeToolTip": "desafio-fundamentos\\Numero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T22:16:13.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Docs\\Estudo\\C#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\Program.cs",
+              "RelativeDocumentMoniker": "desafio-fundamentos\\Program.cs",
+              "ToolTip": "D:\\Docs\\Estudo\\C#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\Program.cs",
+              "RelativeToolTip": "desafio-fundamentos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:35:37.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Docs\\Estudo\\C#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\Usuario.cs",
+              "RelativeDocumentMoniker": "desafio-fundamentos\\Usuario.cs",
+              "ToolTip": "D:\\Docs\\Estudo\\C#\\desafio-fundamentos-c-sharp\\desafio-fundamentos\\desafio-fundamentos\\Usuario.cs",
+              "RelativeToolTip": "desafio-fundamentos\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:38:32.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
